@@ -2,8 +2,8 @@
 
 ## [1] commonJS, ESM 표준 사용 sample
 
-경로 : \n
-/commonJS\_\_ESM/commonJS_MODULE
+경로 : <br>
+/commonJS\_\_ESM/commonJS_MODULE <br>
 /commonJS\_\_ESM/ESM_MODULE
 
 - commonJS
