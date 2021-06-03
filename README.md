@@ -2,10 +2,9 @@
 
 ## [1] commonJS, ESM 표준 사용 sample
 
-경로 :
-
-- /commonJS\_\_ESM/commonJS_MODULE
-- /commonJS\_\_ESM/ESM_MODULE
+경로 : \n
+/commonJS\_\_ESM/commonJS_MODULE
+/commonJS\_\_ESM/ESM_MODULE
 
 - commonJS
 
@@ -29,7 +28,7 @@ node -r esm index.js
 
 ---
 
-- Module 종류
+## [2] Module 종류
 
 1. Built-in Core Module (예 : Node.js module)
 2. Community-based Module (예: NPM)
