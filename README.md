@@ -1,6 +1,11 @@
 # webpack
 
-### commonJS, ESM 표준 사용 sample
+## [1] commonJS, ESM 표준 사용 sample
+
+경로 :
+
+- /commonJS\_\_ESM/commonJS_MODULE
+- /commonJS\_\_ESM/ESM_MODULE
 
 - commonJS
 
@@ -21,6 +26,8 @@ npm install esm
 // ESM 실행 (/ESM_MODULE 폴더경로로 이동 후 실행)
 node -r esm index.js
 ```
+
+---
 
 - Module 종류
 
