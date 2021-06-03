@@ -10,6 +10,7 @@
 
 ```
 // commonJS 별도 설치 없음
+
 // commonJS 실행 (/commonJS_MODULE 폴더경로로 이동 후 실행)
 node index.js
 ```
