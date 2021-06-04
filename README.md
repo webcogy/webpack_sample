@@ -33,3 +33,21 @@ node -r esm index.js
 2. Community-based Module (예: NPM)
    - npm CLI를 사용해야 한다 (예: npm install ModuleName)
 3. Local Module (특정 프로젝트에 정의된 모듈)
+
+---
+
+## [3] readline 모듈예제
+
+경로 : <br>
+/MODULE/readline.js <br>
+
+```
+// 실행
+node readline.js
+```
+
+#### Module을 사용한다면...
+
+1. 코드의 재사용성이 증가한다.
+2. 코드의 관리가 편해진다.
+3. 코드를 모듈화하는 기준이 명확해야 한다.
